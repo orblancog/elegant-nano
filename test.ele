@@ -1,6 +1,9 @@
  i
    
 &alter_elements
+
+&twiss_output
+&coupled_twiss_output twiss
 &end
 &alter_elements
 name = NULL,
