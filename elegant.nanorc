@@ -43,7 +43,7 @@ color brightwhite,cyan "TODO:?"
 ## numbers
 #color brightyellow "\<([0-9]+.?[0-9]*)\>"
 #color brightyellow "\<(([0-9]+.?[0-9]*)|.[0-9]+)([eE][+-]?([0-9]+.?[0-9]))*\>"
-color brightyellow "\<(([0-9]+.?[0-9]*|.[0-9]+)([eE][+-]?([0-9]+.?[0-9]*|[0-9]*.[0-9]+))?)\>" 
+color brightyellow "\<((([0-9]+[.]?[0-9]*)|([.][0-9]+))([eE][+-]?([0-9]+[.]?[0-9]*|[0-9]*[.][0-9]+))?)\>"
 
 color brightred  "&alter_elements"
 color brightred  "&end"
